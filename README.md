@@ -27,7 +27,7 @@ To build a deep learning pipeline that:
 ## 🧠 Model
 
 - **Architecture**: `ResNet50` / `ResNet101V2` (customizable)
-- **Input Size**: 224×224 grayscale nodule crop
+- **Input Size**: 224×224 grayscale
 - **Loss Function**: Binary Cross Entropy
 - **Optimizer**: Adam
 - **Metrics**: Accuracy, Precision, Recall, F1-Score
